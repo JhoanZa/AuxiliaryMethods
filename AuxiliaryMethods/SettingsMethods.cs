@@ -6,7 +6,7 @@ namespace AuxiliaryMethods
     /// <summary>
     ///    this class provides access methods for configuration files
     /// </summary> 
-    internal class SettingsMethods
+    public class SettingsMethods
     {
         /// <summary>
         ///     This method return the values content in the file of configuration .Json
